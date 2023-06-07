@@ -2,7 +2,7 @@
 Battery management system
 
 Board components:
-- asic: BQ7694003DBT(C368606)
+- asic: BQ7694003DBT(C368606) [BQ76952]
 - mcu: STM32xxxx
 - Fuse: -
 - Interface: RS485 and CAN
