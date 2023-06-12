@@ -8,9 +8,26 @@ Board components:
 - Interface: RS485 and CAN
 
 Target: 15S
+https://www.aliexpress.com/item/1005005429173167.html
+
+19”(48.26cm) Rack
+600/800/900mm
+
+9.5”(24.13cm) Half-Rack
+100/200/280x210x44mm
+http://www.allmetalparts.co.uk/54-5-inch-half-rack-system
+https://grabcad.com/library/10zoll_usv_apc_be850g2-gr-1
+
+5.25”(133.35mm) Rack
+170x146x42mm
+https://www.aliexpress.com/item/32383530551.html
+
+3.5"(88.9mm) Rack
+147x101.6x26mm
+https://www.aliexpress.com/item/1005005398767540.html
+https://www.aliexpress.com/item/1005004762858389.html
 
 # Credit
-
 
 ## Array Cells
 BQ769x0:
