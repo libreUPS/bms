@@ -37,3 +37,7 @@ industrial:
 ## Other
 [VESC BMS](https://github.com/vedderb/vesc_bms_fw)
 [LiFePO4_balancer (no smart)](https://oshwlab.com/efkostya/lifepo4_balancer)
+
+https://www.farnell.com/datasheets/2036067.pdf
+https://www.ti.com/lit/pdf/SLUA769
+https://www.ti.com/lit/pdf/SLUA749
