@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|42200001|-26150001|b305736c-7f1c-4c3a-88d4-85f200a39f26|da025182-6fd5-467b-903f-3fad9cd09049"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -503,6 +501,66 @@
     [
       "fa2fe869-55e7-4e89-bcf2-910d5ca003e8",
       ""
+    ],
+    [
+      "804a2ff5-fd9a-4bb9-b248-5c8764c099f2",
+      "balancingFET0"
+    ],
+    [
+      "79027519-9adf-41e5-b477-509d06c88a64",
+      "balancingFET1"
+    ],
+    [
+      "4518093f-f1f9-4c04-81d1-07b4e3318740",
+      "balancingFET2"
+    ],
+    [
+      "50c2f3e9-7967-48ae-9222-e90bb9fecee2",
+      "balancingFET3"
+    ],
+    [
+      "dce11b57-6943-4f2a-9bd0-48aac5293dff",
+      "balancingFET4"
+    ],
+    [
+      "2f2eb862-826d-4792-8c69-754a0fa32865",
+      "balancingFET7"
+    ],
+    [
+      "7363d190-73c2-4872-af97-478bf4c0edb0",
+      "balancingFET6"
+    ],
+    [
+      "9281d2dd-47ae-4ece-8b7d-5f799815d8f6",
+      "balancingFET5"
+    ],
+    [
+      "754319b5-1e78-43c9-bb3e-9cdbd553568c",
+      "balancingFET8"
+    ],
+    [
+      "28da71ce-d970-4274-bd82-566278318cf1",
+      "balancingFET9"
+    ],
+    [
+      "0eb45bc1-c492-4612-9753-fe3d11029605",
+      "balancingFET13"
+    ],
+    [
+      "893295f0-f172-420b-876f-32fdf81c2b49",
+      "balancingFET14"
+    ],
+    [
+      "9f77eeed-fe35-4a84-a133-e30ed053e6d2",
+      "balancingFET11"
+    ],
+    [
+      "bdc2dd95-da21-4e41-b835-133194d0a27b",
+      "balancingFET10"
+    ],
+    [
+      "7d4e95f8-f7eb-49f8-9e66-ebefac3d637b",
+      "balancingFET12"
     ]
   ],
   "text_variables": {}
