@@ -458,7 +458,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../manufacturing/cpb-v01.step",
+      "step": "../manufacturing/bms-v01.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
